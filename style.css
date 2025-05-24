@@ -16,11 +16,11 @@ body{
 .container{
     margin: 0rem auto;
  max-width: 80rem;
- text-align: center;
+ text-align: right;
 
  padding: 5rem;
  border-radius: 2.4rem;
-color: black;
+color: yellow;
 
 }
 h1{
